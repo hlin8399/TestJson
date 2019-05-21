@@ -28,5 +28,20 @@
 	  "contest_id": 1,
 	  "contest_name": "Animal Contest",
 	  "is_sponsored:" : false
+	},
+	{
+	  "post_id": 3,
+	  "user_id": 3,
+	  "username": "Han Lin",
+	  "date": "05-09-2019",
+	  "title": "Cat Gif",
+	  "description": "Like if you think this image is funny!",
+	  "num_of_likes": 25207,
+	  "is_liked": false,
+	  "image_url": "https://media0.giphy.com/media/nNxT5qXR02FOM/giphy.gif",
+	  "user_profile_image_url" : "https://images-na.ssl-images-amazon.com/images/I/411CG0ufMxL.jpg",
+	  "contest_id": 1,
+	  "contest_name": "Animal Contest",
+	  "is_sponsored:" : false
 	}
 ]
