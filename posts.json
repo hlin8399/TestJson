@@ -1,0 +1,32 @@
+[
+	{
+	  "post_id": 1,
+	  "user_id": 1,
+	  "username": "han",
+	  "date": "2019-05-13",
+	  "title": "Cute Dogs",
+	  "description": "Like if you think these dogs are cute!!",
+	  "num_of_likes": 1320000,
+	  "is_liked": true,
+	  "image_url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+	  "user_profile_image_url" : "https://cdn2.iconfinder.com/data/icons/dog-2/32/husky-512.png",
+	  "contest_id": 1,
+	  "contest_name": "Animal Contest",
+	  "is_sponsored:" : true
+	},
+	{
+	  "post_id": 2,
+	  "user_id": 2,
+	  "username": "Jie Lin",
+	  "date": "05-09-2019",
+	  "title": "Cat Gif",
+	  "description": "Like if you think this image is funny!",
+	  "num_of_likes": 25207,
+	  "is_liked": false,
+	  "image_url": "https://media0.giphy.com/media/nNxT5qXR02FOM/giphy.gif",
+	  "user_profile_image_url" : "https://images-na.ssl-images-amazon.com/images/I/411CG0ufMxL.jpg",
+	  "contest_id": 1,
+	  "contest_name": "Animal Contest",
+	  "is_sponsored:" : false
+	}
+]
