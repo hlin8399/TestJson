@@ -1,61 +1,61 @@
 [
 	{
-	  "contest_id": 1,
+	  "contestId": 1,
 	  "name": "Animal Contest",
 	  "description": "Join the contest today to win Amazon coupons! Animal contest description. Description is normally pretty long. Adding more texts here.",
-	  "start_date": "05-08-2019",
-	  "end_date": "07-08-2019",
-	  "how_to_join": "Simply create a post with contest tag \'Animal Contest\' and you are automatically joined!",
-	  "how_to_win": "Get as much likes as possible before the contest ends. We will send the awards to the users with most likes!",
+	  "startDate": "05-08-2019",
+	  "endDate": "07-08-2019",
+	  "howToJoin": "Simply create a post with contest tag \'Animal Contest\' and you are automatically joined!",
+	  "howToWin": "Get as much likes as possible before the contest ends. We will send the awards to the users with most likes!",
 	  "status": "Active",
-	  "creator_id" : -1,
-	  "creator_name": "Postward",
-	  "creator_icon_image_url": null,
+	  "creatorUserId" : -1,
+	  "creatorUsername": "Postward",
+	  "creatorProfileImageUrl": null,
 	  "awards":
 	  [
 	  	{
-	  		"award_id" : 1,
+	  		"awardId" : 1,
 	  		"description": "Amazon Coupon Value: $50.00",
-	  		"available_number": 1,
-	  		"is_active": true,
-	  		"image_url": "https://i.pinimg.com/originals/9d/d8/c1/9dd8c1a08e5f7ce6e66112469fddcf33.jpg"
+	  		"availableNumber": 1,
+	  		"isActive": true,
+	  		"imageUrl": "https://i.pinimg.com/originals/9d/d8/c1/9dd8c1a08e5f7ce6e66112469fddcf33.jpg"
 	  	},
 	  	{
-	  		"award_id" : 2,
+	  		"awardId" : 2,
 	  		"description": "Amazon Echo Dot Value: $34.99",
-	  		"available_number": 1,
-	  		"is_active": true,
-	  		"image_url": "https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._SY300_QL70_.jpg"
+	  		"availableNumber": 1,
+	  		"isActive": true,
+	  		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._SY300_QL70_.jpg"
 	  	}
 	  ]
 	},
 	{
-	  "contest_id": 2,
+	  "contestId": 2,
 	  "name": "Echo Dot Contest",
 	  "description": "Join the contest today to win Amazon Echo Dot, Amazon coupons and many more! Echo Dot Contest description. Description is normally pretty long. Adding more texts here.",
-	  "start_date": "06-13-2019",
-	  "end_date": "08-13-2019",
-	  "how_to_join": "Simply ask your friend to fill your referral code (under account page) when signing up!",
-	  "how_to_win": "Refer as many users as possible. We will send the awards to the users with most likes!",
+	  "startDate": "06-13-2019",
+	  "endDate": "08-13-2019",
+	  "howToJoin": "Simply ask your friend to fill your referral code (under account page) when signing up!",
+	  "howToWin": "Refer as many users as possible. We will send the awards to the users with most likes!",
 	  "status": "Coming Soon",
-	  "creator_id" : -1,
-	  "creator_name": "Postward",
-	  "creator_icon_image_url": null,
+	  "creatorUserId" : -1,
+	  "creatorUsername": "Postward",
+	  "creatorProfileImageUrl": null,
 	  "awards":
 	  [
 	  	{
-	  		"award_id" : 2,
+	  		"awardId" : 2,
 	  		"description": "Amazon Echo Dot Value: $34.99",
-	  		"available_number": 1,
-	  		"is_active": true,
-	  		"image_url": "https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._SY300_QL70_.jpg"
+	  		"availableNumber": 1,
+	  		"isActive": true,
+	  		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._SY300_QL70_.jpg"
 	  	},
 	  	{
-	  		"award_id" : 1,
+	  		"awardId" : 1,
 	  		"description": "Amazon Coupon Value: $50.00",
-	  		"available_number": 1,
-	  		"is_active": true,
-	  		"image_url": "https://i.pinimg.com/originals/9d/d8/c1/9dd8c1a08e5f7ce6e66112469fddcf33.jpg"
+	  		"availableNumber": 1,
+	  		"isActive": true,
+	  		"imageUrl": "https://i.pinimg.com/originals/9d/d8/c1/9dd8c1a08e5f7ce6e66112469fddcf33.jpg"
 	  	}
 	  ]
 	}

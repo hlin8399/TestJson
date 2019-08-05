@@ -1,8 +1,8 @@
 {
-  "min_version_code": 1,
-  "app_upgrade_url": "https://play.google.com/store/apps/details?id=postward",
-  "is_active_account": true,
-  "alert_title": null,
-  "alert_message": null,
-  "toast_message": "This is test response from github"
+  "minVersionCode": 1,
+  "appUpgradeUrl": "https://play.google.com/store/apps/details?id=postward",
+  "isActiveAccount": true,
+  "alertTitle": null,
+  "alertMessage": null,
+  "toastMessage": "This is test response from github"
 }

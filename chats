@@ -1,18 +1,18 @@
 [
 	{
-		"message_id": 1,
-		"user_id": 2,
+		"messageId": 1,
+		"userId": 2,
 		"username": "Jie Lin",
 		"content": "Hey how are you doing today? Have you watched Avenger 4 yet?",
 		"epoch": 1558146116000,
-		"user_profile_image_url": "https://images-na.ssl-images-amazon.com/images/I/411CG0ufMxL.jpg"
+		"userProfileImageUrl": "https://images-na.ssl-images-amazon.com/images/I/411CG0ufMxL.jpg"
 	},
 	{
-		"message_id": 2,
-		"user_id": 3,
+		"messageId": 2,
+		"userId": 3,
 		"username": "Han Jie",
 		"content": "Wanna get something to eat later?",
 		"epoch": 1526134916000,
-		"user_profile_image_url": "https://i.pinimg.com/originals/9d/d8/c1/9dd8c1a08e5f7ce6e66112469fddcf33.jpg"
+		"userProfileImageUrl": "https://i.pinimg.com/originals/9d/d8/c1/9dd8c1a08e5f7ce6e66112469fddcf33.jpg"
 	}
 ]
